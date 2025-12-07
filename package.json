@@ -21,8 +21,8 @@
     "typescript",
     "formfiller"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Vivi and Sam <lowcoders@protonmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.48.1",
     "@typescript-eslint/parser": "^8.48.1",
