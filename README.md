@@ -1,14 +1,14 @@
 # FormFiller Types
 
-Közös TypeScript típus definíciók a FormFiller ökoszisztémához.
+Shared TypeScript type definitions for the FormFiller ecosystem.
 
-## Telepítés
+## Installation
 
 ```bash
 npm install formfiller-types
 ```
 
-## Használat
+## Usage
 
 ```typescript
 import {
@@ -21,17 +21,17 @@ import {
 } from 'formfiller-types';
 ```
 
-## Elérhető Típusok
+## Available Types
 
-- **RBAC típusok**: FormRole, FormPermission, FormRolePermissions
-- **Felhasználó típusok**: User, UserRole, UserPreferences
-- **Közös típusok**: Wildcards, audit logok
-- **API típusok**: Response wrapperek, validációs hibák
+- **RBAC types**: FormRole, FormPermission, FormRolePermissions
+- **User types**: User, UserRole, UserPreferences
+- **Common types**: Wildcards, audit logs
+- **API types**: Response wrappers, validation errors
 
-## Részletes Dokumentáció
+## Detailed Documentation
 
-A teljes dokumentáció: [formfiller-docs](https://lowcoders.github.io/formfiller-docs/)
+Full documentation: [formfiller-docs](https://lowcoders.github.io/formfiller-docs/)
 
-## Licenc
+## License
 
 ISC
