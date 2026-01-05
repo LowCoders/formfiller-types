@@ -1,5 +1,5 @@
-export * from './rbac.types';
-export * from './user.types';
-export * from './common.types';
-export * from './api.types';
+export * from './rbac.types.js';
+export * from './user.types.js';
+export * from './common.types.js';
+export * from './api.types.js';
 //# sourceMappingURL=index.d.ts.map

@@ -1,4 +1,4 @@
-import { FormRolePermissions } from './rbac.types';
+import { FormRolePermissions } from './rbac.types.js';
 
 /**
  * User role types
